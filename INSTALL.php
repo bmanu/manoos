@@ -11,7 +11,7 @@
 * See COPYRIGHT.php for copyright notices and details.
 */
 
-// no direct access
+// no direct acce kjfbsduifbsdfnsdjknf jksdn fkns nss
 defined( '_JEXEC' ) or die( 'Restricted access' );
 ?>
 
